@@ -32,7 +32,7 @@ The Components tab in the side bar provides documentation for a number of Trusty
 - https://trustyai-explainability-python.readthedocs.io/en/latest/[TrustyAI Python Documentation]
 
 ### Tutorials
-- https://trustyai-explainability.github.io/trustyai-site/main/installing-opendatahub.html[The Tutorials sidebar tab] provides walkthroughs of a variety of different TrustyAI flows, like bias monitoring, drift monitoring, and language model evaluation.
+- https://opendatahub.io/docs/monitoring-your-ai-systems/#configuring-trustyai_monitor[Monitor your AI systems via TrustyAI] provides walkthroughs of a variety of different TrustyAI flows, like bias monitoring, drift monitoring, and language model evaluation.
 - https://github.com/trustyai-explainability/trustyai-explainability-python-examples[trustyai-explainability-python-examples]: Examples on how to get started with the Python TrustyAI library.
 - https://github.com/trustyai-explainability/odh-trustyai-demos[trustyai-odh-demos]: Demos of the TrustyAI Service within Open Data Hub.
 
