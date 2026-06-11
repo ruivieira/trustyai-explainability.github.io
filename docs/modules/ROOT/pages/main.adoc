@@ -28,7 +28,7 @@ TrustyAI is a default component of https://opendatahub.io/[Open Data Hub] and ht
 ### Documentation
 The Components tab in the side bar provides documentation for a number of TrustyAI components. Also check out:
 
-- https://opendatahub.io/docs/monitoring-data-science-models/#configuring-trustyai_monitor[Open Data Hub Documentation]
+- https://opendatahub.io/docs/getting-started-with-open-data-hub/[Open Data Hub Documentation]
 - https://trustyai-explainability-python.readthedocs.io/en/latest/[TrustyAI Python Documentation]
 
 ### Tutorials
