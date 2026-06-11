@@ -2,7 +2,7 @@
 
 This repository contains the documentation for the TrustyAI project.
 
-A live version of the documentation is available at [https://trustyai-explainability.github.io](https://trustyai-explainability.github.io/trustyai-site/main/main.html).
+A live version of the documentation is available at [https://trustyai.org](https://trustyai.org).
 
 ## License
 

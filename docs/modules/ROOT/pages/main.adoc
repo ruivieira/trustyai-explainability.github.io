@@ -2,7 +2,7 @@
 
 image::trustyai-logo-wide.svg[Static,300]
 
-https://trustyai-explainability.github.io/trustyai-site/main/main.html[TrustyAI] is an open source Responsible AI toolkit supported by Red Hat and IBM. TrustyAI provides tools for a variety of responsible AI workflows, such as:
+https://trustyai.org[TrustyAI] is an open source Responsible AI toolkit supported by Red Hat and IBM. TrustyAI provides tools for a variety of responsible AI workflows, such as:
 
 * Local and global model explanations
 * Fairness metrics

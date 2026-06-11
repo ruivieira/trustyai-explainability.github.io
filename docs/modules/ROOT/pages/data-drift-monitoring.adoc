@@ -108,8 +108,8 @@ include::example$model_gaussian_credit.yaml[]
 ----
 +
 . `data_tag`: A string tag to reference this particular set of data. Here, we choose `"TRAINING"`
-. `request`: A https://kserve.github.io/website/0.8/modelserving/inference_api/#inference-request-json-object[KServe Inference Request], as if you were sending this data directly to the model server's `/infer` endpoint. 
-. `response`: (Optionally) the https://kserve.github.io/website/0.8/modelserving/inference_api/#inference-response-json-objectt[KServe Inference Response] that is returned from sending the above request to the model.
+. `request`: A https://kserve.github.io/website/docs/concepts/architecture/data-plane[KServe Inference Request], as if you were sending this data directly to the model server's `/infer` endpoint.
+. `response`: (Optionally) the https://kserve.github.io/website/docs/concepts/architecture/data-plane[KServe Inference Response] that is returned from sending the above request to the model.
 
 == Examining TrustyAI's Model Metadata
 

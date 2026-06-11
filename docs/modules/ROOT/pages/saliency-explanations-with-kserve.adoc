@@ -5,7 +5,7 @@ This tutorial will walk you through setting up and using TrustyAI to provide sal
 
 == Prerequisites
 - An operational Kubernetes cluster.
-- KServe 0.11 installed on the cluster. footnote:fn-kserveinstallation[You can find the installation instructions here: https://kserve.github.io/website/0.11/admin/serverless/serverless/[KServe Installation Guide].]
+- KServe 0.11 installed on the cluster. footnote:fn-kserveinstallation[You can find the installation instructions here: https://kserve.github.io/website/docs/admin-guide/serverless[KServe Installation Guide].]
 - The `kubectl` command-line tool installed.
 
 == Setup
@@ -72,7 +72,7 @@ You will see that in addition to the `predictor` pod, there is also an `explaine
 == Making predictions
 
 Predictions are performed in the same way as with regular `InferenceService` deployments. We can use the `kubectl` command to send a request to the model.
-We leave the access mode to the `InferenceService` to the user's discretion, depending on the Kubernetes cluster configuration. Some possible options are available in the https://kserve.github.io/website/0.11/get_started/first_isvc/[KServe documentation]. For the rest of this tutorial, we will use port-forwarding to access the service, for simplicity and assume local access.
+We leave the access mode to the `InferenceService` to the user's discretion, depending on the Kubernetes cluster configuration. Some possible options are available in the https://kserve.github.io/website/docs/getting-started/predictive-first-isvc[KServe documentation]. For the rest of this tutorial, we will use port-forwarding to access the service, for simplicity and assume local access.
 
 We will use the following payload to make a prediction, which we know from the test data will produce a positive prediction. The payload is available for download xref:attachment$kserve-explainer-payload.json[here].
 

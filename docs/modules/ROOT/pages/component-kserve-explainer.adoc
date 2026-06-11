@@ -2,7 +2,7 @@
 
 image::trustyai-kserve-explainer.svg[TrustyAI KServe architecture diagram]
 
-The TrustyAI KServe Explainer is a component that provides explanations for predictions made by using the built-in KServe explainer support footnote:fn-kserveexplainer[Documentation available at https://kserve.github.io/website/0.12/modelserving/explainer/explainer/[KServe explainers section].]. It supports xref:local-explainers.adoc#lime[LIME] and xref:local-explainers.adoc#shap[SHAP] explanation methods, configurable directly within KServe `InferenceServices`.
+The TrustyAI KServe Explainer is a component that provides explanations for predictions made by using the built-in KServe explainer support footnote:fn-kserveexplainer[Documentation available at https://kserve.github.io/website/docs/model-serving/predictive-inference/explainers/overview[KServe explainers section].]. It supports xref:local-explainers.adoc#lime[LIME] and xref:local-explainers.adoc#shap[SHAP] explanation methods, configurable directly within KServe `InferenceServices`.
 
 == Features
 
